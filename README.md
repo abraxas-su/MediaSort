@@ -96,15 +96,6 @@ organizer_core_lite.py  # Core file sorting logic
 
 ---
 
-## 🚀 Future Improvements
-
-- Better UI / modern design
-- Drag-and-drop support
-- More file type detection
-- Batch processing enhancements
-
----
-
 ## 🤝 Contributing
 
 This project does what I needed it to do, so I’m not planning to continue working on it.
